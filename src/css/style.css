@@ -1,0 +1,350 @@
+.message_black_link A:link {
+	COLOR: #333333;
+	text-decoration: bold;
+}
+.normal_black_link A:visited {
+	COLOR: #333333;
+	text-decoration: bold;
+}
+.normal_black_link A:hover {
+	COLOR: #333333;
+	text-decoration: underline
+}
+
+.nortxt {
+	font-family: Tahoma;
+	font-size: 10pt;
+}
+
+.bodytext{
+font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; 
+font-size:14px;
+}
+
+/* #0088ff */
+.menulink A:link { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #0f9dd2;TEXT-DECORATION: none }
+.menulink  A:visited { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #0f9dd2; TEXT-DECORATION: none } 
+.menulink  A:hover { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #0f9dd2; TEXT-DECORATION: none }
+
+/*
+font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:11px;
+*/
+
+.message_link A:link { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #000000;TEXT-DECORATION: none }
+.message_link  A:visited { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #000000; TEXT-DECORATION: none } 
+.message_link  A:hover { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #000000; TEXT-DECORATION: none }
+
+
+.calendar_link A:link { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #000000;TEXT-DECORATION: none; 
+border: 2px solid #f8fffe;
+	margin: 0px;
+	padding: 0px;
+}
+.calendar_link  A:visited { font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; font-size:14px; COLOR: #000000; TEXT-DECORATION: none ;
+border: 2px solid #f8fffe;
+	margin: 0px;
+	padding: 0px;
+} 
+.calendar_link  A:hover { 
+border: 2px solid #85ecff;
+	margin: 0px;
+	padding: 0px;
+
+font-family:'lucida grande',tahoma,verdana,arial,sans-serif ; 
+font-size:14px; COLOR: #000000; 
+TEXT-DECORATION: none ;
+}
+
+
+.wlink A:link { font-size:13px; ;COLOR: #0088ff;TEXT-DECORATION: none }
+.wlink  A:visited { font-size:13px; ;COLOR: #0088ff; TEXT-DECORATION: none } 
+.wlink  A:hover { font-size:13px;;COLOR: #0088ff; TEXT-DECORATION: underline }
+
+.whline {
+	font-family: Tahoma;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+	padding-left: 10px;
+}
+.detailtxt A:link { font-family: Tahoma; font-size: 10pt; COLOR: #333333; TEXT-DECORATION: none; }
+.detailtxt A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #333333; TEXT-DECORATION: none; } 
+.detailtxt A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #65bb00;TEXT-DECORATION: none; }
+
+.bkhline {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+.detlink A:link { font-family: Tahoma; font-size: 10pt; COLOR: #000066; line-height: 25px; TEXT-DECORATION: underline; }
+.detlink A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #000066; line-height: 25px; TEXT-DECORATION: underline; }
+.detlink A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #65bb00;line-height: 25px; TEXT-DECORATION: none; }
+
+.vdolink A:link { font-family: Tahoma; font-size: 10pt; COLOR: #000066;TEXT-DECORATION: underline; }
+.vdolink A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #000066;TEXT-DECORATION: underline; }
+.vdolink A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #000000;TEXT-DECORATION: none; }
+	
+.bklink {
+	font-family: Tahoma;    
+	font-size: 10pt;
+	color: #000000;
+}
+.fline {  border: DEDEDD; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px}
+.greenhl {
+	font-family: Tahoma;
+	font-size: 11pt;
+	color: #333366;
+	font-weight: bold;
+}
+.stxt A:link { font-family: Tahoma; font-size: 10px; COLOR: #999999;TEXT-DECORATION: underline; }
+.stxt A:visited { font-family: Tahoma; font-size: 10px;COLOR: #999999;TEXT-DECORATION: underline; } 
+.stxt A:hover { font-family: Tahoma; font-size: 10px;COLOR: #000000;TEXT-DECORATION: none; }
+
+.introtxt A:link { font-family: Tahoma; font-size: 10pt; COLOR: #666666;TEXT-DECORATION: none; }
+.introtxt A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #666666;TEXT-DECORATION: none; } 
+.introtxt A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #000000;TEXT-DECORATION: none; }
+
+.grlink A:link { font-family: Tahoma; font-size: 14px;COLOR: #516168;TEXT-DECORATION: none }
+.grlink A:visited { font-family: Tahoma; font-size: 14px;COLOR: #516168; TEXT-DECORATION: none } 
+.grlink A:hover { font-family: Tahoma; font-size: 14px;COLOR: #FF0000; TEXT-DECORATION: none }
+
+.subhg  {
+	font-family: Tahoma;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #65bb00;
+	padding-top: 5px;
+}
+.time {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #FF0000;
+}
+
+.subhbk A:link { font-family: Tahoma; font-size: 10pt; COLOR: #666666; padding-top: 5px; TEXT-DECORATION: none; }
+.subhbk A:visited { font-family: Tahoma; font-size: 10pt;COLOR: #666666; padding-top: 5px; TEXT-DECORATION: none; } 
+.subhbk A:hover { font-family: Tahoma; font-size: 10pt;COLOR: #000000; padding-top: 5px; TEXT-DECORATION: none; }
+
+.bkheadnor {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.giheadnor {
+	font-family: Tahoma;
+	font-size: 20px;
+	font-weight: bold;
+	color: #000000;
+}
+.redheadnor {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	color: #D80000;
+}
+.grtxt {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #BBBBBB;
+}
+.today {
+	background-color: #F9F180;
+}
+
+p.pos_fixed{
+position:fixed;
+top: 0px;
+  left : 0;
+  margin-left : 10px;
+  margin-top : 20px;
+  color : #0000ff;
+  padding : 10px;
+}
+
+.table_comment {
+	background-color:#dbf5ff;
+}
+
+div.index_head_position
+{
+  position:fixed;
+  top:0px;
+  left: 50%;
+  margin-left: -500px;
+}
+div.index_head_position2
+{
+  position:fixed;
+  top:0px;
+  left: 50%;
+  margin-left: -1500px;
+}
+
+
+/* ### not include headbar ### */
+.alpha_background
+{
+	background-color:#ffffff;
+	position:fixed;
+	top: 30px;
+	left: 0px;
+
+/*  margin-left: -500px;	*/
+	padding:1000px;
+	border:0px solid #0000ff;
+
+	width: 1000;
+	height: 1000;
+
+	opacity:0.8;
+	filter:alpha(opacity=80); 	/* For IE8 and earlier */
+}
+
+.comment_delete_css
+{
+	background-color:#ffffff;
+	position:fixed;
+	width:500px;
+	height:100px;
+
+	padding:10px;
+	border:5px solid #45c8f8;
+
+	margin:0px;
+	top: 50%;
+	margin-top: -150px;
+	left: 50%;
+	margin-left: -250px;
+	color: #000000;
+
+	opacity:1.0;
+}
+.comment_answer_css
+{
+	background-color:#ffffff;
+	position:fixed;
+	width:500px;
+	height:300px;
+
+	padding:10px;
+	border:5px solid #45c8f8;
+
+	margin:0px;
+	top: 50%;
+	margin-top: -150px;
+	left: 50%;
+	margin-left: -250px;
+	color: #000000;
+
+	opacity:1.0;
+}
+.show_on_center_css
+{
+	margin:0px;
+	top: 50%;
+	margin-top: -150px;
+	left: 50%;
+	margin-left: -250px;
+}
+
+/* ################# the sky 2px border link ############## 
+	################ sky over white #################*/
+.sky_border_link A:link
+{
+	border: 2px solid #f8fffe;
+}
+.sky_border_link  A:visited
+{
+	border: 2px solid #f8fffe;
+} 
+.sky_border_link  A:hover 
+{ 
+	border: 2px solid #85ecff;
+}
+.sky_border_link a:active
+{ 
+	border: 2px solid #00c8ec;
+}
+
+/* ################# the sky 2px border link ############## 
+	################ sky over .table_comment (css) #################*/
+.sky_border_comment_link A:link
+{
+	border: 2px solid #dbf5ff;
+}
+.sky_border_comment_link  A:visited
+{
+	border: 2px solid #dbf5ff;
+} 
+.sky_border_comment_link  A:hover 
+{ 
+	border: 2px solid #6aa9ff;
+}
+.sky_border_comment_link a:active
+{ 
+	border: 2px solid #0051bf;
+}
+
+/* ################# the sky 2px border link ############## 
+	################ sky over .table_comment == answer - soft (css) #################*/
+.sky_border_answer_link A:link
+{
+	border: 2px solid #e8ddc9;
+}
+.sky_border_answer_link  A:visited
+{
+	border: 2px solid #e8ddc9;
+} 
+.sky_border_answer_link  A:hover 
+{ 
+	border: 2px solid #85ecff;
+}
+.sky_border_answer_link a:active
+{ 
+	border: 2px solid #00c8ec;
+}
+
+/* ################# the sky 2px border link ############## 
+	################ sky over .table_comment == answer - hard (css) #################*/
+.sky_border_answer2_link A:link
+{
+	border: 2px solid #e8d0a7;
+}
+.sky_border_answer2_link  A:visited
+{
+	border: 2px solid #e8d0a7;
+} 
+.sky_border_answer2_link  A:hover 
+{ 
+	border: 2px solid #85ecff;
+}
+
+
+div.background
+{
+  width: 100%;
+  height: 100%;
+  border: 2px solid black;
+}
+div.transbox
+{
+  width: 100%;
+  height: 100%;
+  margin: 0px 0px;
+  background-color: #ffffff;
+  border: 0px solid black;
+  opacity:0.8;
+  filter:alpha(opacity=80); /* For IE8 and earlier */
+}
+div.transbox p
+{
+  margin: 0px 0px;
+  font-weight: bold;
+  color: #000000;
+}
